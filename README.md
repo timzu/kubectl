@@ -12,7 +12,7 @@ docker pull timzu/kubectl
 ## version
 
 ```
-ENV VERSION v1.25.12
+ENV VERSION v1.24.16
 ```
 
 ## latest
